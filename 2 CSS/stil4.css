@@ -1,0 +1,20 @@
+h2 {
+    color:blueviolet;
+
+}
+
+body {
+    background-color: white;
+}
+
+.double {
+    border-style: double;
+    border-color: tomato;
+}
+
+p {
+    background-color: royalblue;
+    font: Times;
+    font-size: 20px;
+
+}
